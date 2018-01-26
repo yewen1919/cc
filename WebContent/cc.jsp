@@ -7,24 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-ccccccccccccccc
-cccccccccccccc
-ccccccccccccc
-cccccccccccc
-ccccccccccc
-cccccccccc
-ccccccccc
-cccccccc
-ccccccc
-cccccc
-ccccccc
-cccccccc
-ccccccccc
-cccccccccc
-ccccccccccc
-cccccccccccc
-ccccccccccccc
-cccccccccccccc
-ccccccccccccccc
+asbkdskvjkjfdvc
 </body>
 </html>
